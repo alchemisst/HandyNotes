@@ -1,6 +1,10 @@
 
-function Header(){
-    return (<div className="header"><h1 className="headerh1">Keeper</h1></div>) 
+function Header() {
+  return (
+    <header>
+      <h1>Keeper</h1>
+    </header>
+  );
 }
 
 export default Header;
